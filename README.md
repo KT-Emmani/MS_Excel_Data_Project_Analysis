@@ -1,5 +1,8 @@
 # Plato's Pizza Sales Analysis (Interactive Dashboard creation using MS Excel)
 
+![DSC09460](https://github.com/user-attachments/assets/7d70fe21-0351-4bfb-b884-05d5a906f14c)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
